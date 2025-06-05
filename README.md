@@ -1,0 +1,2 @@
+# EvaluateEmbeddingModels
+在自建测试集上对几个热门嵌入model进行测试
