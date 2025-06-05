@@ -1,0 +1,247 @@
+[1] Is it still under warranty if I accidentally damage it?
+[1] Can I get a replacement if this breaks after purchase?
+[1] How long is the warranty period?
+[1] Does the product include a warranty service?
+[1] Is there a warranty for this product?
+[2] If I place an order today, will it be shipped tomorrow?
+[2] Will it be shipped very late?
+[2] When will you ship the item?
+[2] Approximately how many days will it take to ship?
+[2] If I order now, how soon can it be sent out?
+[3] Can I return it if I'm not satisfied?
+[3] Can I return it if I made a wrong purchase?
+[3] Do you support no-reason returns?
+[3] Is it possible to return the item?
+[3] Is the return process complicated?
+[4] How can I contact customer service?
+[4] How do I get in touch with customer service?
+[4] Is there a human customer service representative available?
+[4] Can you provide the contact details for customer service?
+[4] Who should I contact to resolve issues?
+[5] Is there a cash-on-delivery option when placing an order?
+[5] Do you support cash on delivery?
+[5] Can I pay after receiving the goods instead of paying in advance?
+[5] Is it only possible to pay in advance?
+[5] Can I pay after receiving the package?
+[6] Where can I get a coupon?
+[6] How do I obtain a coupon?
+[6] Are there any promotions or discounts available?
+[6] Do you have any discount coupons?
+[6] Can you provide me with a discount code?
+[7] When will the product be back in stock?
+[7] How long is the estimated delivery time?
+[7] Can you restock quickly?
+[7] Will I be notified when the product is back in stock?
+[7] Will the product be restocked if it's currently out of stock?
+[8] Can I change the delivery address if I made a mistake when placing the order?
+[8] Will the package be delivered to the wrong place if the address is incorrect?
+[8] Will the package not arrive if the address is wrong?
+[8] What should I do if I entered the wrong address?
+[8] Can you help me update the shipping information?
+[9] Can I get an invoice for this purchase?
+[9] Can you provide an invoice for company reimbursement?
+[9] Is it possible to issue an invoice?
+[9] Is there an invoice available for this purchase?
+[9] Can you issue an invoice with a specific header?
+[10] 这个产品适合beginner使用吗？  
+[10] 我不太懂，你能教我一下吗？  
+[10] 能不能发我一份操作instructions？  
+[10] 有没有user manual可以参考？  
+[10] 这个东西怎么用呀？
+[11] 这个东西会不会很容易break？  
+[11] 它的average lifespan大概是多久？  
+[11] 大概能用多久？  
+[11] 如果我用得比较频繁，会不会很容易damage？  
+[11] 这个产品能用多久？
+[12] 收货会不会要很久？  
+[12] 是不是从stock发货的？  
+[12] 现在还有没有stock？
+[13] 安装过程会不会很complicated？  
+[13] 我要怎么install它？  
+[13] 有没有installation video或者manual？  
+[13] 我自己能不能install？我自己动手能力不太好。  
+[13] 我需不需要找professional来安装？
+[14] 一次性付全款有点贵，能不能分期payment？  
+[14] 可以分期付款吗？  
+[14] 支持Huabei或者Credit Card分期付款吗？  
+[14] 有没有分期payment的服务？  
+[14] 能分期付款就太好了。
+[15] 你们有没有physical store？  
+[15] 我想去看一下，有没有店可以去？  
+[15] 是只能在网上买吗？  
+[15] 有没有地方可以offline看产品？  
+[15] 有没有in-store展示？
+[16] 如果不合适，能不能帮我adjust一下？  
+[16] 你们提供alteration服务吗？  
+[16] 我可以change一下size吗？  
+[16] size可以customization吗？  
+[16] 这个size有点紧，能不能换个大一点的？
+[17] 我买这个还要额外付shipping费用吗？  
+[17] 是不是free shipping？  
+[17] shipping是不是所有地方都免费？  
+[17] 是不是免运费？  
+[17] shipping费用你们出吗？
+[18] 付款多久能到账？  
+[18] 为什么还没看到payment到账？  
+[18] 提现是不是real-time的？  
+[18] 退款一般多久能到账？  
+[18] 钱还没到账吗？
+[19] 这个产品会不会引起allergic reaction？  
+[19] 吃了之后有没有adverse effects？  
+[19] 这个产品的安全性怎么样？  
+[19] 敏感体质的人能不能用？  
+[19] 这个产品有没有side effects？
+[20] 你们的business hours是什么时候？  
+[20] 周末也open吗？  
+[20] 晚上还能联系到你们吗？  
+[20] 每天几点开门？  
+[20] 现在还能联系到你们吗？
+[21] 怎么查我的billing date？  
+[21] 我的billing date是哪天？  
+[21] 每个月的billing date是不是固定的？  
+[21] 每月的billing date是几号？  
+[21] billing date是固定的吗？
+[22] 我可以early repayment吗？  
+[22] 提前还清划算吗？  
+[22] 提前还款有没有fee？  
+[22] 有没有early repayment的渠道？  
+[22] 贷款能不能一次性还清？
+[23] Why has my credit limit been reduced?
+[23] I haven't defaulted; why was my limit lowered?
+[23] Why has my limit suddenly decreased?
+[23] Is it due to system risk control?
+[23] What is the reason for the limit reduction?
+[24] Can I apply for a limit increase?
+[24] How can I increase my credit card limit?
+[24] What conditions are required for a limit increase?
+[24] Is there a temporary limit application available?
+[24] Can the low limit be adjusted higher?
+[25] How can I unfreeze my account?
+[25] I can't log in to my account; has it been blocked?
+[25] What should I do if my account is frozen?
+[25] Is it locked due to abnormal operations?
+[25] Why can't I use my account?
+[26] Is the package stuck at some stage?
+[26] Where is my package now?
+[26] What is the current status of the shipment?
+[26] Why can't I see any updates?
+[26] Can you check the logistics status for me?
+[27] Why isn't the logistics information updating?
+[27] If the information stops moving, does it mean the package is lost?
+[27] Is the delivery delayed?
+[27] Why has it shown no change for three days?
+[27] Is it normal for it to stay in one place?
+[28] Can I change the delivery address?
+[28] Can I still change the address if it's wrong?
+[28] Can I receive it at a different location?
+[28] Will changing the address affect delivery?
+[28] Can I modify the address during transit?
+[29] When will it be delivered?
+[29] If I place an order today, when can I receive it at the earliest?
+[29] Will it exceed the promised delivery time?
+[29] Approximately how many days will it take to reach me?
+[29] Is there an estimated delivery time?
+[30] What should I do if I didn't sign for it?
+[30] Could it have been delivered to the wrong place?
+[30] Can you check who signed for it?
+[30] The package was signed for, but I didn't receive it; what should I do?
+[30] Why wasn't I informed about the proxy signature?
+[31] Is the class live or recorded?
+[31] Is it convenient to review the lessons later?
+[31] Are there only recorded classes?
+[31] Can I watch the recordings after a live class?
+[31] Is the course live or recorded?
+[32] When can I start after placing the order?
+[32] Will we be notified of the class time?
+[32] Is the class time fixed?
+[32] How long after registration does the course start?
+[32] Can I start the class immediately?
+[33]作业要在哪里提交？
+[33]提交方式具体是什么？
+[33]是不是用App交作业？
+[33]老师布置的任务从哪交？
+[34]上了一节还能退课吗？
+[34]不满意可以退钱吗？
+[34]有试学期吗？
+[34]课程支持退款吗？
+[34]退课会扣手续费吗？
+[35]可以换老师吗？
+[35]想换个教学风格的老师可以吗？
+[35]老师不适合我可以换人吗？
+[35]能申请更换主讲吗？
+[35]课中换老师会影响进度吗？
+[36]会不会亏本？
+[36]投这个要不要承担亏损？
+[36]是不是保本的？
+[36]理财产品安全性怎么样？
+[36]这个产品有风险吗？
+[37]在哪取消绑定的卡？
+[37]怎么解绑银行卡？
+[37]我不想绑这张卡了怎么弄？
+[37]能换张卡吗？
+[37]解绑需要人工吗？
+[38]会短信通知审批结果吗？
+[38]审核时间是几天？
+[38]快的话能当天批吗？
+[38]提交后什么时候能知道结果？
+[38]贷款审批多久出结果？
+[39] Can I adjust the repayment date?
+[39] Are there any restrictions on changing the date?
+[39] Is the repayment date fixed on a specific day each month?
+[39] Can I postpone the repayment by a few days?
+[39] Is it possible to change the repayment date?
+[40] Will there be an annual fee?
+[40] Are there any hidden fees for opening an account?
+[40] Is there a management fee?
+[40] Will there be a deduction every year?
+[40] Does this account have an annual fee?
+[41] Can I pick it up without waiting for delivery?
+[41] Can I collect it from a branch?
+[41] Is it possible to self-pickup?
+[41] Can I go to the courier point to collect it myself?
+[41] How do I operate for self-pickup?
+[42] Why does it show delivery failure?
+[42] What should I do if the courier can't deliver it?
+[42] Is it because the courier can't find my address?
+[42] Will the package be returned if delivery fails?
+[42] Should I contact the courier?
+[43] It would be best if it could be delivered in the morning; is this an option?
+[43] Can I specify a delivery time?
+[43] Can it be delivered in the evening?
+[43] Can I set a time if I'm not at home?
+[43] Is it possible to schedule a delivery time?
+[44] Will you compensate if the package is lost?
+[44] What should I do if the package is lost?
+[44] Has the package been lost by the courier?
+[44] How do I apply for compensation?
+[44] If I can't track the information, will the package be lost?
+[45] Which courier do you usually use?
+[45] Which courier company is used for shipping?
+[45] Can I choose the courier company?
+[45] Is there a default courier company?
+[45] Is it shipped by SF Express or another courier?
+[46] Can I understand it even if I have no prior knowledge?
+[46] Can I learn as a beginner?
+[46] Will the teaching be too difficult?
+[46] Is this course suitable for beginners?
+[46] Is it not recommended for beginners to enroll?
+[47] Will I receive a certificate upon completion?
+[47] Can I get certification after finishing the course?
+[47] Can I use this certificate to find a job?
+[47] Is it officially certified?
+[47] Is there a graduation certificate available?
+[48] Can I continue to access the content after the expiration date?
+[48] How long can I study after enrolling?
+[48] Is it permanently valid?
+[48] Is there a learning period limit?
+[48] How long is the course validity period?
+[49] Is there a makeup class arrangement?
+[49] Can I make up the missed class?
+[49] What should I do if I take a leave on the class day?
+[49] Can I still watch the recording if I miss a session?
+[49] Is it gone if I miss it?
+[50] How are the results announced?
+[50] Is the exam online or offline?
+[50] How is the exam arranged?
+[50] Is the exam time fixed?
+[50] Do I need to schedule the exam in advance?

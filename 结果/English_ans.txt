@@ -1,0 +1,50 @@
+[1] This product supports a warranty service. Non-human-induced damages within the warranty period are eligible for repair services.
+[2] We usually ship within 24 hours after the order is placed, subject to the specific order information.
+[3] We support return services. Orders that meet the return conditions can apply for returns.
+[4] You can contact customer service through the platform's online customer service, customer service phone number, or the consultation channel within the App.
+[5] Orders that support cash on delivery will be displayed at the checkout. If it is not displayed, online payment is required.
+[6] Coupons can be collected on the promotion page, or you can follow the store notifications to stay updated on the latest promotions.
+[7] The restocking time for out-of-stock items is not fixed. You can monitor the product page for restocking notifications.
+[8] If there is an error in the order address, please contact customer service as soon as possible to update the shipping information.
+[9] We support invoice issuance. Please fill in the invoice information when placing the order or contact customer service.
+[10] The product comes with an instruction manual and is suitable for beginners. If you have any questions, you can contact customer service for assistance.
+[11] The product has good durability, and its lifespan depends on the frequency of use and the environment.
+[12] Most products are sold as in-stock items. For details, please refer to the product page.
+[13] The product is easy to install, with an instruction manual or installation video provided. Some models may require professional installation.
+[14] We support installment payments. Please select and view the specific options on the payment page.
+[15] Some cities have physical stores. You can check the store information or contact customer service for details.
+[16] We offer size adjustment services. Please contact customer service according to the product policy to apply.
+[17] Most products support free shipping. For special regions or products, please refer to the checkout page.
+[18] Refunds generally take 3-5 working days to be credited after approval, depending on the bank's processing speed.
+[19] The product has passed safety tests. However, it is recommended that sensitive individuals consult a professional doctor before use.
+[20] The normal business hours are from 9:00 to 21:00 daily. The schedule may vary on holidays and weekends.
+[21]账单日信息可在账户设置中查询或致电客服确认。
+[22]支持提前还款，部分产品可能涉及手续费，请查看协议条款。
+[23]信用额度调整由系统综合评估决定，如无异常可联系客服了解详情。
+[24]可申请提升额度，系统会根据您的使用情况进行综合评估。
+[25]账户冻结可能因安全问题触发，请联系客服核实身份后解冻。
+[26]您可通过物流单号实时查看包裹状态，如异常可联系快递或客服。
+[27]物流信息更新延迟可能由快递未扫码造成，请耐心等待或联系快递。
+[28]收货地址可在发货前修改，发货后建议联系客服协助处理。
+[29]商品发出后一般1-5天送达，具体时间视地区与快递效率。
+[30]如快递被误签或签收异常，请第一时间联系客服处理。
+[31]课程形式包含直播和录播，直播课结束后可回看视频。
+[32]下单成功后将通过短信/系统消息通知开课时间，按时参加即可。
+[33]作业通常通过学习平台或App提交，详情请参照课程指引。
+[34]支持退课服务，按规定在试学或指定时间内可申请退款。
+[35] If you need to change the main instructor, please apply on the platform or contact the academic staff for assistance.  
+[36] Financial products are not guaranteed principal. Please understand the risks and choose products suitable for yourself before investing.  
+[37] Unbinding the bank card can be done in the account settings. In some cases, manual review is required.  
+[38] Loan approval usually takes 1-3 working days. The result will be notified via SMS or the App.  
+[39] The repayment date can be adjusted in the bill settings. Some products support deferred repayment.  
+[40] Some accounts may charge an annual fee or management fee. For details, please refer to the product description.  
+[41] Orders that support self-pickup can be selected at checkout or arranged by contacting the courier.  
+[42] Delivery failure may be caused by unclear addresses. Please contact the courier or customer service.  
+[43] You can specify delivery time requirements in the order notes or coordinate with the courier for delivery time.  
+[44] In case of lost packages, we will assist in filing a claim with the courier and follow up on the process.
+[45]默认快递公司由系统选择，部分商品支持自选快递。
+[46]课程适合零基础学习，讲解通俗易懂，适合新手入门。
+[47]完成课程后可获得结业证书，部分课程为官方认证证书。
+[48]课程有效期详见报名信息，部分课程支持延长观看期限。
+[49]支持补课和回放服务，错过课程可联系教务补学。
+[50]考试安排请查看课程通知，部分需预约，形式有线上和线下。
